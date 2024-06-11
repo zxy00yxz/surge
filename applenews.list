@@ -19,5 +19,7 @@ DOMAIN-SUFFIX,newsletter-edge.apple.com
 DOMAIN-SUFFIX,inappcheck.itunes.apple.com
 DOMAIN-SUFFIX,gsa.apple.com
 DOMAIN-SUFFIX,gsas.apple.com
+DOMAIN-SUFFIX,gateway.icloud.com
+DOMAIN-SUFFIX,fpinit.itunes.apple.com
 USER-AGENT,AppleNews*
 USER-AGENT,com.apple.news*
