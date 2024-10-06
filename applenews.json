@@ -1,31 +1,31 @@
 {
   "version": 1,
   "rules": [
-    {
-      "domain_suffix": [
-        "ls.apple.com",
-        "news-client-search.apple.com",
-        "news-sports-events.apple.com",
-        "news-events.apple.com",
-        "news-app-events.apple.com",
-        "apple.news",
-        "advp.apple.com",
-        "news.iadsdk.apple.com",
-        "news-edge.apple.com",
-        "news-todayconfig-edge.apple.com",
-        "news-assets.apple.com",
-        "newsletter-edge.apple.com",
-        "inappcheck.itunes.apple.com",
-        "gsa.apple.com",
-        "xp.apple.com",
-        "gsas.apple.com",
-        "gateway.icloud.com",
-        "fpinit.itunes.apple.com"
-      ],
-      "process_name": [
-        "News",
-        "newsd"
-      ]
-    }
+    "domain_suffix": [
+      "ls.apple.com",
+      "news-client-search.apple.com",
+      "news-sports-events.apple.com",
+      "news-events.apple.com",
+      "news-app-events.apple.com",
+      "apple.news",
+      "advp.apple.com",
+      "news.iadsdk.apple.com",
+      "news-edge.apple.com",
+      "news-todayconfig-edge.apple.com",
+      "news-assets.apple.com",
+      "newsletter-edge.apple.com",
+      "inappcheck.itunes.apple.com",
+      "gsa.apple.com",
+      "xp.apple.com",
+      "gsas.apple.com",
+      "gateway.icloud.com",
+      "fpinit.itunes.apple.com"
+    ],
+    "process_name": [
+      "AppleNews*",
+      "com.apple.news*"
+      "News",
+      "newsd"
+    ]
   ]
 }
