@@ -2,7 +2,7 @@
   "version": 1,
   "rules": [
     {
-      "domain_suffix":[
+      "domain_suffix": [
         "ls.apple.com",
         "news-client-search.apple.com",
         "news-sports-events.apple.com",
@@ -22,7 +22,7 @@
         "gateway.icloud.com",
         "fpinit.itunes.apple.com"
       ],
-      "process_name":[
+      "process_name": [
         "News",
         "newsd"
       ]
