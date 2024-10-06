@@ -57,8 +57,7 @@
     {
       "type": "hysteria2",
       "tag": "oracleUSHysteria",
-      "server": "141.148.34.28",
-      "server_port": "20000-50000",
+      "server": "141.148.34.28:20000-50000",
       "up_mbps": 20,
       "down_mbps": 100,
       "password": "8203abcDEF",
