@@ -2,15 +2,21 @@
   "version": 1,
   "rules": [
     {
-      "domain": [
-        "browser-intake-datadoghq.com",
-        "chat.openai.com.cdn.cloudflare.net",
-        "gemini.google.com",
-        "openai-api.arkoselabs.com",
-        "openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net",
-        "openaicomproductionae4b.blob.core.windows.net",
-        "production-openaicom-storage.azureedge.net",
-        "static.cloudflareinsights.com"
+      "domain_suffix": [
+        "iopscience.org",
+        "science.org",
+        "aps.org",
+        "nature.com",
+        "sciencemag.org",
+        "springernature.com",
+        "iop.org",
+        "sciencedirect.com",
+        "wiley.com",
+        "springer.com",
+        "acs.org",
+        "aip.org",
+        "elsevier.com",
+        "sciencedirectassets.com"
       ]
     }
   ]
