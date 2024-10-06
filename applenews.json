@@ -21,12 +21,6 @@
         "gsas.apple.com",
         "gateway.icloud.com",
         "fpinit.itunes.apple.com"
-      ],
-      "User-Agent": [
-        "AppleNews*",
-        "com.apple.news*",
-        "News",
-        "newsd"
       ]
     }
   ]
