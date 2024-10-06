@@ -23,8 +23,6 @@
         "fpinit.itunes.apple.com"
       ],
       "process_name": [
-        "AppleNews*",
-        "com.apple.news*",
         "News",
         "newsd"
       ]
