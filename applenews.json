@@ -24,7 +24,7 @@
       ],
       "process_name": [
         "AppleNews*",
-        "com.apple.news*"
+        "com.apple.news*",
         "News",
         "newsd"
       ]
