@@ -21,6 +21,10 @@
         "gsas.apple.com",
         "gateway.icloud.com",
         "fpinit.itunes.apple.com"
+      ],
+      "process_name": [
+        "News",
+        "newsd"
       ]
     }
   ]
